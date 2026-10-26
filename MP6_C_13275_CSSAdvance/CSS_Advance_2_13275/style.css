@@ -1,0 +1,83 @@
+body {
+    background-color: #f0edf3;
+    color: #3d3444;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 85%;
+    margin: auto;
+    padding: 20px;
+    background-color: white;
+}
+
+.header {
+    text-align: center;
+    background-color: #e8dceb;
+    padding: 15px;
+}
+
+.header h1 {
+    color: #b48fb1;
+}
+
+.subjudul {
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: #b48fb1;
+    background-color: #eae3ee;
+    padding: 10px;
+}
+
+table {
+    width: 100%;
+    border-style: groove;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid #c2b1c2;
+    padding: 10px;
+}
+
+.label {
+    width: 32%;
+    background-color: #eee8f1;
+    font-weight: bold;
+}
+
+.atas {
+    vertical-align: top;
+}
+
+input, select, textarea {
+    font-family: inherit;
+}
+
+input[type="text"] {
+    padding: 5px;
+    width: 250px;
+}
+
+textarea {
+    padding: 5px;
+}
+
+.tombol {
+    text-align: center;
+    background-color: #ebdcea;
+}
+
+input[type="submit"] {
+    padding: 8px;
+    background-color: #d8bce4;
+    color: white;
+}
+
+.catatan {
+    text-align: center;
+    color: #c2b1c2;
+}
